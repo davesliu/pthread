@@ -1,0 +1,1 @@
+astyle *.c --style=bsd --convert-tabs --indent=spaces=4 --attach-closing-while  --indent-col1-comments --pad-oper --pad-comma
