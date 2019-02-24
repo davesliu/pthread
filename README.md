@@ -1,4 +1,6 @@
 # pthread
+only for:
+
 pthread learning
 
 
